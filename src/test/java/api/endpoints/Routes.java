@@ -22,5 +22,15 @@ public class Routes {
 	
 	// Store Module 
 	    // here i will create Store module URL'S
+	
+	public static String store_Post_Url=Base_url+"/store/order";
+	public static String store_Get_Url=Base_url+"/store/order/{orderId}";
+	public static String store_Delete_Url=Base_url+"/store/order/{orderId}";
+	
+	// Pet Module 
+	public static String pet_Post_Url=Base_url+"/pet";
+	public static String pet_Get_Url=Base_url+"/pet/{petId}";
+	public static String pet_Update_url=Base_url+"/pet";
+	public static String pet_Delete_Url=Base_url+"/pet/{petId}";
 
 }

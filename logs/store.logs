@@ -1,0 +1,12 @@
+11:39:58.903 [main] INFO  api.test.StoreTests - ******* creating the new pet *******
+11:40:02.479 [main] INFO  api.test.StoreTests - ******* new pet is created *********
+11:40:02.498 [main] INFO  api.test.StoreTests - ******** reading the created pet ******
+11:40:03.647 [main] INFO  api.test.StoreTests - ********* displaying the created pet *******
+11:40:03.651 [main] INFO  api.test.StoreTests - ***** deleting the pet ********
+11:40:04.761 [main] INFO  api.test.StoreTests - ******* deleted the pet ******
+11:42:10.043 [main] INFO  api.test.StoreTests - ******* creating the new pet *******
+11:42:13.210 [main] INFO  api.test.StoreTests - ******* new pet is created *********
+11:42:13.237 [main] INFO  api.test.StoreTests - ******** reading the created pet ******
+11:42:14.460 [main] INFO  api.test.StoreTests - ********* displaying the created pet *******
+11:42:14.463 [main] INFO  api.test.StoreTests - ***** deleting the pet ********
+11:42:15.555 [main] INFO  api.test.StoreTests - ******* deleted the pet ******
